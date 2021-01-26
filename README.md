@@ -1,5 +1,5 @@
 # Shipping Company
-In this project, we will build a program that will take the weight of a package and determine the cheapest way to ship that package using the Shipping company.
+In this project, I will build a program that will take the weight of a package and determine the cheapest way to ship that package using the Shipping company.
 
 The shippers has several different options for a customer to ship their package:
 
@@ -28,4 +28,4 @@ Over 2 lb but less than or equal to 6 lb	$9.00	$0.00
 Over 6 lb but less than or equal to 10 lb	$12.00	$0.00
 Over 10 lb	$14.25	$0.00
 
-We will write a Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using the shipping company.
+I will write a Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using the shipping company.
