@@ -1,5 +1,5 @@
 # Shipping Company
-In this project, I will build a program that will take the weight of a package and determine the cheapest way to ship that package using the Shipping company.
+In this project, I will build a program that will take the weight of a package and determine the cheapest way to ship that package using the shipping company.
 
 The shippers has several different options for a customer to ship their package:
 
