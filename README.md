@@ -11,6 +11,7 @@ Here are the prices:
 Ground Shipping
 
 Weight of Package	Price per Pound	plus Flat Charge
+
 2 lb or less $1.50 per lb	+ $20.00
 Over 2 lb but less than or equal to 6 lb	$3.00 per lb +	$20.00
 Over 6 lb but less than or equal to 10 lb	$4.00	per lb + $20.00
@@ -23,6 +24,7 @@ Flat charge: $125.00
 Drone Shipping
 
 Weight of Package	Price per Pound plus Flat Charge
+
 2 lb or less	$4.50 per lb + $0.00
 Over 2 lb but less than or equal to 6 lb 	$9.00 per lb +	$0.00
 Over 6 lb but less than or equal to 10 lb	$12.00 per lb +	$0.00
